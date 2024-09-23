@@ -1,0 +1,1474 @@
+[
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "66e7deea27776d37a8d3199c",
+    "_parentId": "66e7dedc27776d37a8d3199a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/298c29e0ba84559a8394af299a0d56c2b958c804.jpg",
+      "small": "course/en/assets/298c29e0ba84559a8394af299a0d56c2b958c804.jpg",
+      "attribution": "",
+      "_url": "",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Objectif :</strong></p><ul><li>Apprendre et prononcer correctement les lettres de l'alphabet en anglais.</li></ul>",
+    "_id": "66e7df3327776d37a8d319a0",
+    "_parentId": "66e7df3027776d37a8d3199f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "66e7df4f27776d37a8d319a2",
+    "_parentId": "66e7df4a27776d37a8d319a1",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "https://demo.jellyfin.org/stable/Items/c7eb95d14156c803611cf4a78ac469f6/Download?api_key=700707c9bf0b451698cbdd88ce108b8b",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "textinput",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "66e7e03d27776d37a8d319a5",
+    "_parentId": "66e7e03827776d37a8d319a4",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "_answers": [
+          "CIA"
+        ],
+        "prefix": "",
+        "suffix": "",
+        "placeholder": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_allowsAnyCase": true,
+    "_allowsPunctuation": false,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "66e7e9b527776d37a8d319a6",
+    "_parentId": "66e7e03827776d37a8d319a4",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "  AUDIO 1",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "course/en/assets/b2c5a66fe9f4922d618d322cc12ea6a2c5465b43.mp3",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "textinput",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "66e7eeec27776d37a8d319aa",
+    "_parentId": "66e7eeec27776d37a8d319a9",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "_answers": [
+          "FBI"
+        ],
+        "prefix": "",
+        "suffix": "",
+        "placeholder": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_allowsAnyCase": true,
+    "_allowsPunctuation": false,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "<p>CIA</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "66e7eeec27776d37a8d319ab",
+    "_parentId": "66e7eeec27776d37a8d319a9",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "  AUDIO 2",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "course/en/assets/38c12037a5d0ade1a3ec8137210715d8bb1ce2fb.mp3",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "textinput",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "66e8284327776d37a8d319af",
+    "_parentId": "66e8284327776d37a8d319ae",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "_answers": [
+          "RSPCA"
+        ],
+        "prefix": "",
+        "suffix": "",
+        "placeholder": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_allowsAnyCase": true,
+    "_allowsPunctuation": false,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "<p>CIA</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "66e8284327776d37a8d319b0",
+    "_parentId": "66e8284327776d37a8d319ae",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "  AUDIO 3",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "course/en/assets/0c18664ca7873f13afd2fe788bfaf6cc2a014585.mp3",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "textinput",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "66e82b0927776d37a8d319b4",
+    "_parentId": "66e82b0927776d37a8d319b3",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "_answers": [
+          "DONE"
+        ],
+        "prefix": "",
+        "suffix": "",
+        "placeholder": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_allowsAnyCase": true,
+    "_allowsPunctuation": false,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "<p>CIA</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "66e82b0927776d37a8d319b5",
+    "_parentId": "66e82b0927776d37a8d319b3",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "  AUDIO 4",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "course/en/assets/ddd3927aaa5d67fd86398819d26ed3d141538698.mp3",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_id": "66e8305f27776d37a8d319c0",
+    "_parentId": "66e8305b27776d37a8d319bf",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_id": "66e830e027776d37a8d319c3",
+    "_parentId": "66e8306127776d37a8d319c2",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Dans la vidéo il s'agit ici des prononciations anglaises. </strong></p><p><strong>Aux Etats-Unis, le '<span style=\"color:#e74c3c\">z</span>' se prononce pareil que 'b', 'c', 'd' etc. c'est-à-dire avec un son <span style=\"color:#3498db\">[i:]</span>, ce qui donne : Z américain.</strong></p>",
+    "_id": "66e830f227776d37a8d319c5",
+    "_parentId": "66e830ef27776d37a8d319c4",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>le G :</strong></p>",
+    "_id": "66e831bc27776d37a8d319c7",
+    "_parentId": "66e831b627776d37a8d319c6",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "66e832b627776d37a8d319c9",
+    "_parentId": "66e830ef27776d37a8d319c4",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "  Z américain",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "course/en/assets/587d081a49e354ab0b87e6a0e674bbf73f87ff85.mp3",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "66e8355027776d37a8d319ce",
+    "_parentId": "66e831b627776d37a8d319c6",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "G",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "course/en/assets/143ae2f34d65e186e6e95ee2e93182f4421e8794.mp3",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>le J :</strong></p>",
+    "_id": "66e8358027776d37a8d319d4",
+    "_parentId": "66e8358027776d37a8d319d3",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "66e8358027776d37a8d319d5",
+    "_parentId": "66e8358027776d37a8d319d3",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "J",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "course/en/assets/42458fc055d57274d4574474b9ae3170edb22a3e.mp3",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "textinput",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "66e836a927776d37a8d319db",
+    "_parentId": "66e836a427776d37a8d319da",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "_answers": [
+          "house"
+        ],
+        "prefix": "",
+        "suffix": "",
+        "placeholder": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_allowsAnyCase": false,
+    "_allowsPunctuation": false,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "textinput",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "66e838ce27776d37a8d319de",
+    "_parentId": "66e838ce27776d37a8d319dd",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "_answers": [
+          "window"
+        ],
+        "prefix": "",
+        "suffix": "",
+        "placeholder": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_allowsAnyCase": false,
+    "_allowsPunctuation": false,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "66e83a6927776d37a8d319e0",
+    "_parentId": "66e836a427776d37a8d319da",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "J",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "course/en/assets/42458fc055d57274d4574474b9ae3170edb22a3e.mp3",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "66e83a6e27776d37a8d319e3",
+    "_parentId": "66e838ce27776d37a8d319dd",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "J",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "course/en/assets/42458fc055d57274d4574474b9ae3170edb22a3e.mp3",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "assessmentResults",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "66e83a7d27776d37a8d319e7",
+    "_parentId": "66e83a7927776d37a8d319e6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_isVisibleBeforeCompletion": true,
+    "_setCompletionOn": "inview",
+    "_resetType": "inherit",
+    "_assessmentId": "ddffgg",
+    "_retry": {
+      "button": "Recommencer",
+      "feedback": "",
+      "_routeToAssessment": true
+    },
+    "_completionBody": "<p>This component you're reading is a results component.<br />You have finished the assessment.<br />You scored {{score}} out of {{maxScore}}. {{{feedback}}}</p>",
+    "_bands": []
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Les deux lettres les plus compliquées à prononcer sont sans aucun doute pour les francophones les lettres : <span style=\"color:#e74c3c\">G</span> et <span style=\"color:#e74c3c\">J</span>, qui se prononcent à l'inverse du français :</strong></p>",
+    "_id": "66e83c1627776d37a8d319e9",
+    "_parentId": "66e83bfc27776d37a8d319e8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_id": "66e83c6127776d37a8d319eb",
+    "_parentId": "66e83c5d27776d37a8d319ea",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_id": "66ed685b06e07379084ac048",
+    "_parentId": "66ed685806e07379084ac047",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>&nbsp;</p><p>Ecoutez attentivement ces audios, puis retrouvez les lettres qui sont lus à haute voix.&nbsp;</p>",
+    "_id": "66ed687f06e07379084ac04a",
+    "_parentId": "66ed687c06e07379084ac049",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  }
+]

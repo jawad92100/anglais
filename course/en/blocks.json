@@ -1,0 +1,1270 @@
+[
+  {
+    "title": "New Block Title",
+    "displayTitle": "Alphabet en anglais",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 1,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e7dedc27776d37a8d3199a",
+    "_parentId": "66e7dedc27776d37a8d31999",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "center",
+        "_body": "center",
+        "_instruction": "center"
+      },
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_minimumHeights": {
+        "_xlarge": null,
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_isDividerBlock": false,
+      "_paddingTop": "standard",
+      "_paddingBottom": "standard",
+      "_componentVerticalAlignment": "top",
+      "_componentHorizontalAlignment": "left"
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 2,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e8306127776d37a8d319c2",
+    "_parentId": "66e8306127776d37a8d319c1",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 3,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e83a7927776d37a8d319e6",
+    "_parentId": "66e83a7927776d37a8d319e5",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 4,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e83c5d27776d37a8d319ea",
+    "_parentId": "66e836a427776d37a8d319d9",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 5,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66ed687c06e07379084ac049",
+    "_parentId": "66e7e03827776d37a8d319a3",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 6,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e7df3027776d37a8d3199f",
+    "_parentId": "66e7dedc27776d37a8d31999",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": true,
+      "_isInherited": false,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": false,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continuer",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_minimumHeights": {
+        "_xlarge": null,
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_isDividerBlock": false,
+      "_paddingTop": "standard",
+      "_paddingBottom": "standard",
+      "_componentVerticalAlignment": "top",
+      "_componentHorizontalAlignment": "left"
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 7,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e7e03827776d37a8d319a4",
+    "_parentId": "66e7e03827776d37a8d319a3",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 8,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e830ef27776d37a8d319c4",
+    "_parentId": "66e8306127776d37a8d319c1",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 9,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e836a427776d37a8d319da",
+    "_parentId": "66e836a427776d37a8d319d9",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 10,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e7df4a27776d37a8d319a1",
+    "_parentId": "66e7dedc27776d37a8d31999",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "visible",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": false,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": false,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_minimumHeights": {
+        "_xlarge": null,
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_isDividerBlock": false,
+      "_paddingTop": "standard",
+      "_paddingBottom": "standard",
+      "_componentVerticalAlignment": "top",
+      "_componentHorizontalAlignment": "left"
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 11,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e7eeec27776d37a8d319a9",
+    "_parentId": "66e7e03827776d37a8d319a3",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 12,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e838ce27776d37a8d319dd",
+    "_parentId": "66e836a427776d37a8d319d9",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 13,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e83bfc27776d37a8d319e8",
+    "_parentId": "66e8306127776d37a8d319c1",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 14,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e8284327776d37a8d319ae",
+    "_parentId": "66e7e03827776d37a8d319a3",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 15,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e831b627776d37a8d319c6",
+    "_parentId": "66e8306127776d37a8d319c1",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 16,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66ed685806e07379084ac047",
+    "_parentId": "66e7dedc27776d37a8d31999",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": true,
+      "_isInherited": false,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "visible",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": false,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Un peu d'entrainement",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_minimumHeights": {
+        "_xlarge": null,
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_isDividerBlock": false,
+      "_paddingTop": "standard",
+      "_paddingBottom": "standard",
+      "_componentVerticalAlignment": "top",
+      "_componentHorizontalAlignment": "left"
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 17,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e82b0927776d37a8d319b3",
+    "_parentId": "66e7e03827776d37a8d319a3",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_minimumHeights": {
+        "_xlarge": null,
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_isDividerBlock": false,
+      "_paddingTop": "standard",
+      "_paddingBottom": "standard",
+      "_componentVerticalAlignment": "top",
+      "_componentHorizontalAlignment": "left"
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 18,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e8358027776d37a8d319d3",
+    "_parentId": "66e8306127776d37a8d319c1",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": true,
+      "_isInherited": false,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "visible",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": false,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Exercice \"Prononciation : Alphabet en anglais \"",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": false,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_minimumHeights": {
+        "_xlarge": null,
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_isDividerBlock": false,
+      "_paddingTop": "standard",
+      "_paddingBottom": "standard",
+      "_componentVerticalAlignment": "top",
+      "_componentHorizontalAlignment": "left"
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 19,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e8305b27776d37a8d319bf",
+    "_parentId": "66e7e03827776d37a8d319a3",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": true,
+      "_isInherited": false,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": false,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continuer",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": false,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_minimumHeights": {
+        "_xlarge": null,
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_isDividerBlock": false,
+      "_paddingTop": "standard",
+      "_paddingBottom": "standard",
+      "_componentVerticalAlignment": "top",
+      "_componentHorizontalAlignment": "left"
+    }
+  }
+]
